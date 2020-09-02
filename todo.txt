@@ -1,0 +1,7 @@
+﻿change aside folder to photo lab
+save plain photos to aside folder when showAside() is called
+save all photos to email folder which will be placed inside photo lab folder 
+photo lab folder should be placed at root of c 
+photo lab folder will contain email folder 
+create installler
+drag and drop into SendEmail
